@@ -13,7 +13,6 @@ Este é um projeto de API para consulta de dados de CNPJs brasileiros, desenvolv
 - [NestJS](https://nestjs.com/) - Framework Node.js para construção de aplicações server-side
 - [@nestjs/axios](https://www.npmjs.com/package/@nestjs/axios) - Módulo HTTP para NestJS
 - [@nestjs/throttler](https://www.npmjs.com/package/@nestjs/throttler) - Módulo para rate limiting
-- TypeScript - Linguagem de programação
 - Brasil API - Fonte de dados para informações de CNPJs
 
 ## Estrutura do projeto
